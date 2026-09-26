@@ -1,7 +1,5 @@
 # Metal Tazos
 
-Gra na Windows — metalowe tazosy, Kolekcja Stali i pojedynki 1v1.
-
 ## Pobierz grę
 
 **[Przejdź do najnowszego wydania](https://github.com/Synose99/MetalTazos-Releases/releases/latest)**
@@ -12,9 +10,9 @@ Gra na Windows — metalowe tazosy, Kolekcja Stali i pojedynki 1v1.
 
 Launcher sprawdza aktualizacje po uruchomieniu. Kolejne wydania zainstalujesz przyciskiem **Aktualizuj**. Zachowaj obok EXE plik `launcher.json`. Konto GitHub nie jest potrzebne.
 
-## Gra ze znajomym
+## 
 
-Obie osoby powinny mieć aktualną wersję. W grze wybierzcie **MULTIPLAYER 1V1**, swojego tazosa i **WYSZUKAJ GRACZA**. Wymagany internet; bez VPN, adresów IP i kodów pokoju.
+Obie osoby powinny mieć aktualną wersję. W grze wybierzcie **MULTIPLAYER 1V1**, swojego tazosa i **WYSZUKAJ GRACZA**.
 
 ## Wymagania i pliki
 
